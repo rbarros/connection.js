@@ -1,0 +1,26 @@
+{
+  "name": "Connection",
+  "title": "Connection",
+  "description": "Show the connection status.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rbarros/connection.js",
+  "author": {
+    "name": "Ramon Barros",
+    "email": "contato@ramon-barros.com",
+    "url": "http://ramon-barros.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://rbarros@github.com/rbarros/connection.js"
+  },
+  "bugs": "https://github.com/rbarros/connection.js/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/rbarros/connection.js/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+  },
+  "keywords": []
+}
